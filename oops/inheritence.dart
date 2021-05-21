@@ -17,10 +17,10 @@ class A2 extends A1 {
   }
 }
 
-main() {
-  var a1, a2;
-  // a1 = new A1();
-  a2 = new A2();
-  a2.a1();
-  a2.a2();
-}
+// main() {
+//   var a1, a2;
+//   // a1 = new A1();
+//   a2 = new A2();
+//   a2.a1();
+//   a2.a2();
+// }
